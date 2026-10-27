@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SaaS Template - Production Ready
 
 A comprehensive, production-ready SaaS template built with Next.js 16, featuring authentication, payments, AI integrations, and modern tooling.
